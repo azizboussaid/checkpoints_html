@@ -1,3 +1,0 @@
-git insert_invitation
-git add .
-git commit -mailto
